@@ -1,4 +1,10 @@
-# Markel Insurance Claims API
+# Markel Insurance Claims API  
+
+* All projects in the solution target .Net 6.0  
+* The APIs have been tested with Swagger and getting the expected results
+* The test project unit tests have been executed and working
+
+## Project details  
 
 * Solution:         Markel.DotNetCore.API
 * API project:      Insurance.Claims.API  
